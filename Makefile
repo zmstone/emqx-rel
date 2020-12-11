@@ -6,7 +6,7 @@ export LOCALDEP_DIR
 export REBAR_GIT_CLONE_OPTIONS
 export LC_ALL=en_US.UTF-8
 
-REBAR_VERSION = 3.14.3-emqx-1
+REBAR_VERSION = 3.14.3-emqx-2
 REBAR = ./rebar3
 
 PROFILE ?= emqx
